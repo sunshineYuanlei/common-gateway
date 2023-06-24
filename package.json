@@ -1,0 +1,21 @@
+{
+  "name": "common-gateway",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@polka/send-type": "^0.5.2",
+    "express-rate-limit": "^6.7.0",
+    "fast-proxy": "^1.0.0",
+    "fg-multiple-hooks": "^1.3.0",
+    "http-cache-middleware": "^1.4.1",
+    "request-ip": "^3.3.0",
+    "restana": "^4.9.7"
+  }
+}
